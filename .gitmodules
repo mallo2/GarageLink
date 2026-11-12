@@ -1,7 +1,7 @@
 [submodule "IOT-GarageLink"]
-	path = IOT-GarageLink
+    path = IOT-GarageLink
 	url = https://github.com/mallo2/IOT-GarageLink.git
 
 [submodule "Companion-GarageLink"]
     path = Companion-GarageLink
-    url = https://github.com/mallo2/Companion-GarageLink.git
+	url = https://github.com/mallo2/Companion-GarageLink.git
